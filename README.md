@@ -2,7 +2,7 @@
 <br />
 <br />
 
-**A dedicated software developer based in Morocco with comprehensive experience in the IT industry. I specialize in both Web and Mobile development, also DevOps, Cloud Solution Architect, and I'm passionate about building robust and user-friendly software solutions using technologies.**
+**A dedicated software developer based in Morocco with comprehensive experience in the IT industry. I specialize in both Web and Mobile development, also DevOps, Cloud Solution Architect, Artificial Intelligence, Data Science, and I'm passionate about building robust and user-friendly software solutions using technologies.**
 
 ## About Me
 
@@ -14,7 +14,8 @@
 - **Delivered 10+ 🌐 iOT and electronics projects worldwide 🗺️**
 - **Completed 10+ 🎥 Video and 🎧 Audio Conference System Projects successfully.**
 - **Contributed 20+ Projects 📁 with AWS Solution Team and TSMC to implement organization ON-Premise Network and Architecture.**
-
+- **Developed 10+ AI-based projects using OpenAI, Python, LLM, Vector DB.**
+  
 ## Skills
 
 Here's a glimpse of the skills I bring to the table:
@@ -30,6 +31,7 @@ Here's a glimpse of the skills I bring to the table:
 - **DevOps & Cloud Computing**: AWS, GCP, Azure using Serverless, SAM, CDK
 - **Mobile App Development**: React Native, Ionic, Swift, Java, Objective-C
 - **AI Automation**: OpenAI, ML, DL, LLM, VectorDB
+- **Data Science**
 
 ## 📌 Featured Projects
 
