@@ -2,7 +2,7 @@
 <br />
 <br />
 
-**A dedicated software developer based in Philippines with comprehensive experience in the IT industry. I specialize in both Web and Mobile development, also DevOps, Cloud Solution Architect, and I'm passionate about building robust and user-friendly software solutions using technologies.**
+**A dedicated software developer based in Morocco with comprehensive experience in the IT industry. I specialize in both Web and Mobile development, also DevOps, Cloud Solution Architect, and I'm passionate about building robust and user-friendly software solutions using technologies.**
 
 ## About Me
 
